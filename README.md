@@ -1,2 +1,2 @@
 # M.L---NOAA-Atmosf-rica
-Projetos de modelos machine learning com dados do NOAA.
+Projetos machine learning com dados do NOAA. previsão climaticas 
